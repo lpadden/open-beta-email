@@ -2,4 +2,5 @@
 <form action="/email" method="post">
    <label for="email"/>
    <input type="text" name="email" placeholder="email">
+   <input type="submit" value="Submit">
 </form>
